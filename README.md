@@ -4,6 +4,9 @@
 
 This is a Next.js portfolio project showcasing a personal portfolio website. It includes various sections such as a hero section, about me, services, projects, newsletter signup, and a footer section.
 
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (2)](https://github.com/fahad0samara/next-portfolio/assets/90055525/248e3f34-f69f-40ab-b5ac-c18ab32dbe6b)
+
+
 ## Technologies Used
 
 - **Next.js**: Next.js is a React framework for building server-side rendered and statically generated applications.
